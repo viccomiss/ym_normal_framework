@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>themeColor</key>
+	<array>
+		<integer>24</integer>
+		<integer>144</integer>
+		<integer>255</integer>
+		<integer>1</integer>
+	</array>
+    <key>gradientColor</key>
+    <array>
+        <integer>53</integer>
+        <integer>195</integer>
+        <integer>255</integer>
+        <integer>1</integer>
+    </array>
+	<key>invite_back</key>
+	<string>blue/Mine/invite_back</string>
+	<key>tab_candy_on</key>
+	<string>blue/Tab/tab_candy_on</string>
+	<key>tab_market_on</key>
+	<string>blue/Tab/tab_market_on</string>
+	<key>tab_mine_on</key>
+	<string>blue/Tab/tab_mine_on</string>
+	<key>tab_project_on</key>
+	<string>blue/Tab/tab_project_on</string>
+	<key>selectbox_on</key>
+	<string>blue/Common/selectbox_on</string>
+	<key>arrow_down</key>
+	<string>blue/Market/arrow_down</string>
+	<key>menu_k</key>
+	<string>blue/Market/menu_k</string>
+	<key>menu_time</key>
+	<string>blue/Market/menu_time</string>
+	<key>optional_sel_on</key>
+	<string>blue/Market/optional_sel_on</string>
+	<key>weight_down</key>
+	<string>blue/Market/weight_down</string>
+	<key>weight_up</key>
+	<string>blue/Market/weight_up</string>
+</dict>
+</plist>
